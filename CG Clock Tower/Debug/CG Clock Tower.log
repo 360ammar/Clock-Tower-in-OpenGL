@@ -1,0 +1,36 @@
+﻿Build started 12/11/2015 6:03:17 PM.
+     1>Project "C:\Users\Ammar\Documents\Visual Studio 2015\Projects\CG Clock Tower\CG Clock Tower\CG Clock Tower.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(69): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(74): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(75): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(84): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(89): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(94): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(105): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(106): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(115): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(136): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(144): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(152): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(164): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(174): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(191): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(237): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(242): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ammar\documents\visual studio 2015\projects\cg clock tower\cg clock tower\source.cpp(249): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ammar\Documents\Visual Studio 2015\Projects\CG Clock Tower\Debug\CG Clock Tower.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Ammar\Documents\Visual Studio 2015\Projects\CG Clock Tower\Debug\CG Clock Tower.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ammar\Documents\Visual Studio 2015\Projects\CG Clock Tower\Debug\CG Clock Tower.lib" /MACHINE:X86 Debug\Source.obj
+         CG Clock Tower.vcxproj -> C:\Users\Ammar\Documents\Visual Studio 2015\Projects\CG Clock Tower\Debug\CG Clock Tower.exe
+     1>Done Building Project "C:\Users\Ammar\Documents\Visual Studio 2015\Projects\CG Clock Tower\CG Clock Tower\CG Clock Tower.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.07
